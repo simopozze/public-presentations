@@ -1,2 +1,2 @@
 # public-presentations
-mine public presentations
+some stuffs and public presentations
